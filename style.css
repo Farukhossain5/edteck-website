@@ -1,0 +1,13 @@
+
+.costom{
+filter: brightness(50%);
+}
+.bg-info-costom{
+background-color: #289BDE;
+}
+.btn-info-costom{
+background-color: #289BDE;
+}
+.text-info-costom{
+color: #289BDE;
+}
